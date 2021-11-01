@@ -3,7 +3,7 @@
 
 # Tutorial:
 
-https://www.programiz.com/dsa/bubble-sort <break>
+https://www.programiz.com/dsa/bubble-sort <br>
 https://www.geeksforgeeks.org/bubble-sort/
 
 
